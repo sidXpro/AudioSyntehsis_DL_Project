@@ -1,0 +1,16 @@
+{
+    "esc_custom": "./data/DATA2/esc_custom",
+    "comments":{
+    },
+
+    "metadata":{
+        "path": {
+            "esc_custom":{
+                "train": "./data/DATA2/metadata/audioUrbanMix/esc_custom_train_label.json", 
+                "test": "./data//DATA2/metadata/audioUrbanMix/esc_custom_test_label.json",
+                "val": "./data/DATA2/metadata/audioUrbanMix/esc_custom_val_label.json",
+                "class_label_indices": "./data/DATA2/metadata/audioUrbanMix/sound_labels.csv"
+            }
+        }
+    }
+}

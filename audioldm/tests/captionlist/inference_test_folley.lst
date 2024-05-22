@@ -1,0 +1,23 @@
+eval_dog_bark001.wav|Dog barking boldly
+eval_dog_bark002.wav|Dog barking crisply
+eval_dog_bark003.wav|Dog barking loudly
+eval_footstep001.wav|Footsteps sound while walking on grass
+eval_footstep003.wav|Footsteps sound while walking on dry leaves
+eval_footstep005.wav|Footsteps sound while walking on dry leaves with boots
+eval_gunshot001|firing bullets from machine gun
+eval_gunshot002|firing bullets from pistol
+eval_gunshot007|firing bullets from semi machine gun
+eval_keyboard001.wav|typing on keyboard
+eval_keyboard002.wav|typing on keyboard
+eval_keyboard003.wav|typing on keyboard
+eval_moving_motor_vehicle001.wav|car passing by sliently
+eval_moving_motor_vehicle002.wav|car passing by loudly
+eval_moving_motor_vehicle003.wav|car passing by fastly
+eval_rain009.wav|raining heavy
+eval_rain004.wav|raining droplets
+eval_rain003.wav|raining showers
+eval_sneeze_cough001.wav|coughing
+eval_sneeze_cough003.wav|sneezing
+eval_sneeze_cough004.wav|sneezing
+
+

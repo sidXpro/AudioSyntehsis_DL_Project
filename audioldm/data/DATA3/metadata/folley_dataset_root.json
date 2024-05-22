@@ -1,0 +1,16 @@
+{
+    "folley": "./data/DATA3/folley",
+    "comments":{
+    },
+
+    "metadata":{
+        "path": {
+            "folley":{
+                "train": "./data/DATA3/metadata/folley/train.json", 
+                "test": "./data//DATA3/metadata/folley/eval.json",
+                "val": "./data/DATA3/metadata/folley/eval.json",
+                "class_label_indices": "./data/DATA3/metadata/folley/sound_labels.csv"
+            }
+        }
+    }
+}
