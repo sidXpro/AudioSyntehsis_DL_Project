@@ -1,0 +1,4 @@
+nohup: ignoring input
+usage: extract_code.py [-h] [--vqvae_checkpoint VQVAE_CHECKPOINT]
+                       [--name NAME]
+extract_code.py: error: argument --vqvae_checkpoint: expected one argument
