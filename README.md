@@ -1,5 +1,5 @@
-Secured 4th Global Rank in Dcase 2024 task7 challenge " Sound Scene Synthesis"
-
+<h1> Secured 4th Global Rank in Dcase 2024 task7 challenge " Sound Scene Synthesis" 
+</h1>
 Results :  https://dcase.community/challenge2024/task-sound-scene-synthesis-results
 
 We have made our custom dataset by mixing various audio dataset. Some audios are put as foreground while some are put in background.
