@@ -1,3 +1,21 @@
+Secured 4th Global Rank in Dcase 2024 task7 challenge " Sound Scene Synthesis"
+
+Results :  https://dcase.community/challenge2024/task-sound-scene-synthesis-results
+
+We have made our custom dataset by mixing various audio dataset. Some audios are put as foreground while some are put in background.
+
+for. ex. : baby crying in train
+baby crying has been put in foreground and train sound out in background 
+using following relation:
+
+new_sound = 2 * foreground sound + 0.5*background sound 
+
+here, amplitude for the background sound is scaled down while the amplitude for the foreground sound is scaled up
+
+for mixing ESC50, AudioCaps and Acoustic Scene Dataset is used
+
+Follwing is the implementation workflow:
+
 1) Download ESC50 dataset and place it in a folder
 2) Download DCASE Acoustic Scene Dataset and place it in a separate folder
 3) Run the jupyer notebook script named 'Custom_Dataset_New.ipynb' to mix audios from the two folders
